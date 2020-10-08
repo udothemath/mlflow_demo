@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pro/Documents/091720_mlflow_demo/mlruns/0/bc017f9173bc47f0887b0387c285f033/artifacts
+end_time: 1601216641814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: bc017f9173bc47f0887b0387c285f033
+run_uuid: bc017f9173bc47f0887b0387c285f033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1601216641770
+status: 3
+tags: []
+user_id: pro
